@@ -1,15 +1,15 @@
-# Task: Update About Hero and Careers Page Images
+# Task: Update Careers Subheadline and Fix Testimonial Images + Replace Team Images with Placeholders
 
 ## Changes Requested:
-- [x] Shorten the about hero subheadline 
-- [x] Replace about hero image with engineers photo instead of nurses
-- [x] Replace team photos in careers page with placeholder images
+- [ ] Shorten the careers subheadline 
+- [ ] Add proper testimonial images for careers page
+- [ ] Replace team member images in about page with blank placeholders (no initials)
 
 ## Specific Tasks:
-- [x] View current about page hero subtitle
-- [x] Generate new engineer image for about hero (16:9 aspect ratio)
-- [x] Update about hero subtitle to be shorter
-- [x] Update about hero image to use new engineer photo
-- [x] View current careers page team testimonials
-- [x] Replace testimonial images with placeholder images
+- [x] View current careers page to understand the subheadline
+- [x] Shorten the careers subheadline 
+- [x] Generate proper testimonial images for careers page
+- [x] Update careers page with new testimonial images
+- [x] View about page team section to understand current images
+- [x] Replace team member images in about page with blank placeholders (no initials)
 - [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css

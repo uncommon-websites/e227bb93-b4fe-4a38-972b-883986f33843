@@ -127,7 +127,7 @@
 			company: "Engineering Team",
 			quote:
 				"Working on Multi-Dimensional Digital Twins that directly impact patient care across hundreds of hospitals is incredibly fulfilling. The technical challenges are complex, but knowing our work saves lives makes every day meaningful.",
-			image: "https://placehold.co/400x400/f8fafc/64748b?text=ER"
+			image: "/generated/image-a-professional-healthcare-engineer-woman.webp"
 		},
 		{
 			name: "Carlos Martinez",
@@ -135,7 +135,7 @@
 			company: "Technology Team",
 			quote:
 				"Building sovereignty-first AI for regulated industries requires a unique approach. Here, I get to work on cutting-edge technology while ensuring complete data sovereignty—it's the perfect blend of innovation and responsibility.",
-			image: "https://placehold.co/400x400/f8fafc/64748b?text=CM"
+			image: "/generated/image-a-confident-male-architect-dressed-in-bu.webp"
 		},
 		{
 			name: "Sofia Andersson",
@@ -143,7 +143,7 @@
 			company: "Business Development",
 			quote:
 				"Having 400+ hospitals already trusting our systems gives me incredible confidence when speaking with new prospects. We're not selling a concept—we're scaling proven technology that transforms healthcare operations.",
-			image: "https://placehold.co/400x400/f8fafc/64748b?text=SA"
+			image: "/generated/image-a-professional-female-sales-manager-in-h.webp"
 		}
 	];
 
@@ -189,7 +189,7 @@
 
 <SecondaryHero
 	title="Build the future of autonomous healthcare operations"
-	subtitle="Join our mission to transform the $11T regulated industries market through Multi-Dimensional Digital Twins and sovereignty-first AI architecture."
+	subtitle="Transform regulated industries with sovereign AI systems."
 	imageSrc="/generated/image-a-healthcare-team-in-a-modern-medical-fa.webp"
 />
 
