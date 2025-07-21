@@ -48,7 +48,7 @@
 
 <Summary
 	title="What we do"
-	text="MIMMSoS delivers autonomous enterprise operations by leveraging Multi-Dimensional Digital Twins that orchestrate fragmented workflows into intelligent, sovereign systems. We transform how healthcare organizations coordinate patient care by eliminating data silos without disrupting existing infrastructure. Starting with 400+ Spanish hospitals, we're expanding across regulated industries with our patented sovereignty-first AI architecture."
+	text="Alma delivers autonomous enterprise operations through our flagship product MIMMSoS, leveraging Multi-Dimensional Digital Twins that orchestrate fragmented workflows into intelligent, sovereign systems. We transform how healthcare organizations coordinate patient care by eliminating data silos without disrupting existing infrastructure. Starting with 400+ Spanish hospitals, we're expanding across regulated industries with our patented sovereignty-first AI architecture."
 />
 
 <Testimonials
@@ -58,7 +58,7 @@
 			position: "Chief Information Officer",
 			company: "Sant Just Hospital",
 			quote:
-				"MIMMSoS eliminated our $2.3M annual cost from fragmented data silos.\nOur AI workflows now coordinate across all departments without disrupting existing systems.",
+				"Alma's MIMMSoS eliminated our $2.3M annual cost from fragmented data silos.\nOur AI workflows now coordinate across all departments without disrupting existing systems.",
 			image:
 				"/generated/image-a-hispanic-healthcare-executive-woman-in.webp"
 		},
@@ -76,7 +76,7 @@
 			position: "Director of Healthcare IT",
 			company: "Metropolitan Health Systems",
 			quote:
-				"Implementation took 3 weeks instead of our budgeted 18 months.\nMIMMSoS saved us $4.7M in integration costs while improving operational efficiency by 65%.",
+				"Implementation took 3 weeks instead of our budgeted 18 months.\nAlma's MIMMSoS saved us $4.7M in integration costs while improving operational efficiency by 65%.",
 			image:
 				"/generated/image-an-african-american-healthcare-it-direct.webp"
 		}
@@ -89,7 +89,7 @@
 	useCases={[
 		{
 			title: "Coordinate patient care across departments",
-			description: "When critical patients need multi-departmental care, communication gaps can delay treatment and increase costs. MIMMSoS creates unified digital twins that synchronize patient data across all departments in real-time, ensuring seamless care coordination without disrupting existing workflows.",
+			description: "When critical patients need multi-departmental care, communication gaps can delay treatment and increase costs. Alma's MIMMSoS creates unified digital twins that synchronize patient data across all departments in real-time, ensuring seamless care coordination without disrupting existing workflows.",
 			image: "/generated/image-healthcare-professionals-collaborating-i.webp",
 			link: {
 				href: "/use-cases/patient-care-coordination",
@@ -107,7 +107,7 @@
 		},
 		{
 			title: "Streamline healthcare operations at scale",
-			description: "Managing complex hospital operations across multiple departments creates inefficiencies that waste millions annually. MIMMSoS transforms operational chaos into autonomous, intelligent systems that optimize resource allocation and reduce administrative overhead by up to 65%.",
+			description: "Managing complex hospital operations across multiple departments creates inefficiencies that waste millions annually. Alma's MIMMSoS transforms operational chaos into autonomous, intelligent systems that optimize resource allocation and reduce administrative overhead by up to 65%.",
 			image: "/generated/image-hospital-administrators-in-a-strategic-p.webp",
 			link: {
 				href: "/use-cases/operations-optimization",

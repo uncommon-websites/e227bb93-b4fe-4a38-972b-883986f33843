@@ -51,7 +51,7 @@
 	// Props
 	const {
 		title = "Transform your enterprise operations",
-		subtitle = "Start with MIMMSoS today",
+		subtitle = "Start with Alma today",
 		description = "Ready to eliminate data silos and coordinate patient care without disrupting existing systems? Join 400+ Spanish hospitals already using our sovereignty-first AI architecture.",
 		imageSrc = "/generated/image-a-healthcare-professional-woman-smiling-.webp",
 		callsToAction = [cta],
