@@ -21,10 +21,10 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
-		role: "Founder & CEO",
+		name: "Dr. Javier Herrero",
+		role: "Co-founder & President",
 		image:
-			"https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80"
+			"/generated/image-a-healthcare-professional-woman-smiling-.webp"
 	};
 </script>
 
@@ -33,7 +33,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"With 43+ years in HealthTech and government networks, we're uniquely positioned to solve enterprise AI interoperability for regulated industries at global scale"`}
 			/>
 
 			<!-- Team Member & CTA Section -->

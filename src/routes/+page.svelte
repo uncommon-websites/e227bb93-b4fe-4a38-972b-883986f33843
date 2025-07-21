@@ -17,7 +17,7 @@
 		{
 			name: "Dr. Sarah Chen",
 			position: "Chief Information Officer",
-			imageSrc: "/generated/image-a-professional-healthcare-cio-woman-in-b.webp"
+			imageSrc: "/generated/image-a-professional-healthcare-cio-woman-in-a.webp"
 		},
 		{
 			name: "Marcus Rodriguez",
@@ -27,12 +27,12 @@
 		{
 			name: "Jennifer Walsh",
 			position: "Hospital IT Manager",
-			imageSrc: "/generated/image-a-hospital-it-manager-woman-photographed.webp"
+			imageSrc: "/generated/image-a-hospital-it-manager-woman-in-a-healthc.webp"
 		},
 		{
 			name: "David Thompson",
 			position: "Healthcare Systems Administrator",
-			imageSrc: "/generated/image-a-healthcare-systems-administrator-man-d.webp"
+			imageSrc: "/generated/image-a-healthcare-systems-administrator-man-i.webp"
 		}
 	]}
 />
@@ -60,7 +60,7 @@
 			quote:
 				"MIMMSoS eliminated our $2.3M annual cost from fragmented data silos.\nOur AI workflows now coordinate across all departments without disrupting existing systems.",
 			image:
-				"/generated/image-a-professional-hispanic-woman-in-a-healt.webp"
+				"/generated/image-a-hispanic-healthcare-executive-woman-in.webp"
 		},
 		{
 			name: "Tobias Keller",
@@ -69,7 +69,7 @@
 			quote:
 				"We reduced patient care coordination errors by 87% in just 6 months.\nThe on-premise sovereignty architecture gave our data protection office complete confidence.",
 			image:
-				"/generated/image-a-professional-german-man-a-technology-d.webp"
+				"/generated/image-a-german-technology-executive-man-in-a-m.webp"
 		},
 		{
 			name: "Amara Washington",
@@ -78,7 +78,7 @@
 			quote:
 				"Implementation took 3 weeks instead of our budgeted 18 months.\nMIMMSoS saved us $4.7M in integration costs while improving operational efficiency by 65%.",
 			image:
-				"/generated/image-a-professional-african-american-woman-in.webp"
+				"/generated/image-an-african-american-healthcare-it-direct.webp"
 		}
 	]}
 />
@@ -90,7 +90,7 @@
 		{
 			title: "Coordinate patient care across departments",
 			description: "When critical patients need multi-departmental care, communication gaps can delay treatment and increase costs. MIMMSoS creates unified digital twins that synchronize patient data across all departments in real-time, ensuring seamless care coordination without disrupting existing workflows.",
-			image: "/generated/image-a-group-of-healthcare-professionals-in-a.webp",
+			image: "/generated/image-healthcare-professionals-collaborating-i.webp",
 			link: {
 				href: "/use-cases/patient-care-coordination",
 				label: "Learn more"
@@ -99,7 +99,7 @@
 		{
 			title: "Integrate fragmented health data systems",
 			description: "Healthcare organizations struggle with isolated data silos that prevent comprehensive patient insights. Our Multi-Dimensional Digital Twins orchestrate fragmented workflows and connect disparate systems, enabling AI-driven analytics while maintaining full data sovereignty and compliance.",
-			image: "/generated/image-a-medical-team-in-a-research-lab-analyzi.webp",
+			image: "/generated/image-a-medical-team-analyzing-data-in-a-resea.webp",
 			link: {
 				href: "/use-cases/data-integration",
 				label: "Learn more"
@@ -108,7 +108,7 @@
 		{
 			title: "Streamline healthcare operations at scale",
 			description: "Managing complex hospital operations across multiple departments creates inefficiencies that waste millions annually. MIMMSoS transforms operational chaos into autonomous, intelligent systems that optimize resource allocation and reduce administrative overhead by up to 65%.",
-			image: "/generated/image-hospital-administrators-in-a-meeting-roo.webp",
+			image: "/generated/image-hospital-administrators-in-a-strategic-p.webp",
 			link: {
 				href: "/use-cases/operations-optimization",
 				label: "Learn more"
