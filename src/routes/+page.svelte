@@ -6,16 +6,23 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="/sample.png"
-	generating
+<CenteredTextOnlyHero
+	title="Seamless operations. Smarter systems."
+	subtitle="Transform siloed workflows into coordinated care without replacing your existing infrastructure."
+	imageSrc="/generated/image-a-group-of-confident-professionals-engag.webp"
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by leading healthcare systems"
+	logoUrls={[
+		'https://logo.clearbit.com/kaiserpermanente.org',
+		'https://logo.clearbit.com/mayoclinic.org',
+		'https://logo.clearbit.com/clevelandclinic.org',
+		'https://logo.clearbit.com/johnshopkins.edu'
+	]}
+/>
 
 <Summary
 	generating
