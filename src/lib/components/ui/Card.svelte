@@ -37,8 +37,8 @@
 						style="border-radius: max(2px, calc(var(--radius) - 1rem));"
 					/>
 					<div
-						class="absolute top-3 left-3 bg-white/90 p-1.5 backdrop-blur-sm"
-						style="border-radius: max(2px, calc(var(--radius) - 1.25rem));"
+						class="absolute top-3 left-3 p-1.5 backdrop-blur-sm"
+						style="border-radius: max(2px, calc(var(--radius) - 1.25rem)); background-color: var(--color-background);"
 					>
 						<Icon
 							class="size-4 {iconClass.includes('text-')

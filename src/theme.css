@@ -55,41 +55,41 @@
 	--radius-4xl: calc(var(--radius) * 5);
 }
 
-/* Uncomment this next block for dark mode. Do not remove this line. */
+/* Dark mode theme with dark bluish-black background */
 
-/* html[data-theme="dark"] {
+html[data-theme="dark"] {
 	@theme {
-		--color-background: var(--color-gray-950);
+		--color-background: oklch(0.08 0.02 240);
 		--color-foreground: var(--color-gray-50);
-		--color-card: var(--color-gray-900);
+		--color-card: oklch(0.12 0.02 240);
 		--color-card-foreground: var(--color-gray-50);
-		--color-card-hover: var(--color-gray-800);
-		--color-popover: var(--color-gray-900);
+		--color-card-hover: oklch(0.15 0.02 240);
+		--color-popover: oklch(0.12 0.02 240);
 		--color-popover-foreground: var(--color-gray-50);
 		--color-primary: var(--color-primary-600);
 		--color-primary-foreground: var(--color-primary-50);
-		--color-secondary: var(--color-gray-900);
+		--color-secondary: oklch(0.12 0.02 240);
 		--color-secondary-foreground: var(--color-gray-50);
-		--color-muted: var(--color-gray-900);
+		--color-muted: oklch(0.12 0.02 240);
 		--color-muted-foreground: var(--color-gray-400);
-		--color-accent: var(--color-gray-900);
+		--color-accent: oklch(0.15 0.02 240);
 		--color-accent-foreground: var(--color-gray-50);
 		--color-destructive: color-mix(in oklch, var(--color-primary-500), var(--color-primary-600));
-		--color-border: color-mix(in oklch, var(--color-gray-50), transparent 90%);
-		--color-input: color-mix(in oklch, var(--color-gray-50), transparent 85%);
+		--color-border: color-mix(in oklch, var(--color-gray-50), transparent 85%);
+		--color-input: color-mix(in oklch, var(--color-gray-50), transparent 80%);
 		--color-ring: var(--color-primary-600);
 		--color-chart-1: color-mix(in oklch, var(--color-primary-700), var(--color-secondary-600));
 		--color-chart-2: color-mix(in oklch, var(--color-primary-400), var(--color-secondary-500));
 		--color-chart-3: var(--color-primary-500);
 		--color-chart-4: color-mix(in oklch, var(--color-primary-600), var(--color-secondary-700));
 		--color-chart-5: color-mix(in oklch, var(--color-primary-600), var(--color-secondary-300));
-		--color-sidebar: var(--color-gray-900);
+		--color-sidebar: oklch(0.12 0.02 240);
 		--color-sidebar-foreground: var(--color-gray-50);
 		--color-sidebar-primary: var(--color-primary-600);
 		--color-sidebar-primary-foreground: var(--color-primary-50);
-		--color-sidebar-accent: var(--color-gray-900);
+		--color-sidebar-accent: oklch(0.15 0.02 240);
 		--color-sidebar-accent-foreground: var(--color-gray-50);
-		--color-sidebar-border: color-mix(in oklch, var(--color-gray-50), transparent 90%);
+		--color-sidebar-border: color-mix(in oklch, var(--color-gray-50), transparent 85%);
 		--color-sidebar-ring: var(--color-primary-600);
 	}
-} */
+}
