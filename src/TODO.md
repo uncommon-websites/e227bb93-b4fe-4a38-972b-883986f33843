@@ -1,12 +1,6 @@
-# Task: Replace Use Cases with New Healthcare-Focused Ones
+# Task: Switch to Light Mode and Use Customer Cards Hero
 
-- [x] View current UseCases component structure
-- [x] View current home page implementation
-- [x] View current navigation.ts structure
-- [x] Remove existing "Streamlined Workflows, Data Analysis, Secure Collaboration" use cases
-- [x] Generate 3 new use cases tailored for MIMMSoS healthcare enterprise operations
-- [x] Generate appropriate images for each new use case
-- [x] Update home page with new use cases and images
-- [x] Update navigation.ts to reflect new use case structure
-- [x] Remove all "generating" props from components
+- [x] Comment out dark mode colors in theme.css
+- [x] Change theme in app.html from "dark" to "light"
+- [x] Verify the customer cards hero is being used
 - [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css

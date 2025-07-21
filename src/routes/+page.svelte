@@ -6,14 +6,13 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
+	import CustomerCardHero from "$lib/components/layout/hero-sections/CustomerCardHero.svelte";
 	import UseCases from "$lib/components/layout/UseCases.svelte";
 </script>
 
-<CenteredTextOnlyHero
+<CustomerCardHero
 	title="Seamless operations. Smarter systems."
 	subtitle="Transform siloed workflows into coordinated care without replacing your existing infrastructure."
-	imageSrc="/generated/image-a-group-of-confident-professionals-engag.webp"
 />
 <LogoScroller 
 	label="Trusted by leading healthcare systems"
