@@ -60,7 +60,37 @@ export const navigation: NavItem[] = [
 		showInNav: true,
 		showInFooter: false
 	},
-
+	{
+		label: "Use Cases",
+		showInNav: true,
+		showInFooter: true,
+		children: [
+			{
+				label: "Patient Care Coordination",
+				href: "/use-cases/patient-care-coordination",
+				image: "/generated/image-a-group-of-healthcare-professionals-in-a.webp",
+				description: "Coordinate patient care across departments with unified digital twins that synchronize data in real-time, ensuring seamless care without disrupting workflows",
+				showInNav: true,
+				showInFooter: true
+			},
+			{
+				label: "Data Integration",
+				href: "/use-cases/data-integration",
+				image: "/generated/image-a-medical-team-in-a-research-lab-analyzi.webp",
+				description: "Integrate fragmented health data systems through Multi-Dimensional Digital Twins that orchestrate workflows while maintaining full data sovereignty",
+				showInNav: true,
+				showInFooter: true
+			},
+			{
+				label: "Operations Optimization",
+				href: "/use-cases/operations-optimization",
+				image: "/generated/image-hospital-administrators-in-a-meeting-roo.webp",
+				description: "Streamline healthcare operations at scale by transforming operational chaos into autonomous, intelligent systems that optimize resource allocation",
+				showInNav: true,
+				showInFooter: true
+			}
+		]
+	},
 	{
 		label: "Company",
 		showInNav: true,

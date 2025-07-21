@@ -7,6 +7,7 @@
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
 	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
+	import UseCases from "$lib/components/layout/UseCases.svelte";
 </script>
 
 <CenteredTextOnlyHero
@@ -25,65 +26,105 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="MIMMSoS delivers autonomous enterprise operations by leveraging Multi-Dimensional Digital Twins that orchestrate fragmented workflows into intelligent, sovereign systems. We transform how healthcare organizations coordinate patient care by eliminating data silos without disrupting existing infrastructure. Starting with 400+ Spanish hospitals, we're expanding across regulated industries with our patented sovereignty-first AI architecture."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Nuria Belmonte",
+			position: "Chief Information Officer",
+			company: "Sant Just Hospital",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
+				"MIMMSoS eliminated our $2.3M annual cost from fragmented data silos.\nOur AI workflows now coordinate across all departments without disrupting existing systems.",
 			image:
-				"https://images.unsplash.com/photo-1571513722275-4b41940f54b8?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+				"/generated/image-a-professional-hispanic-woman-in-a-healt.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Tobias Keller",
+			position: "Chief Technology Officer",
+			company: "Klinic Zürich Süd",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
+				"We reduced patient care coordination errors by 87% in just 6 months.\nThe on-premise sovereignty architecture gave our data protection office complete confidence.",
 			image:
-				"https://images.unsplash.com/photo-1600603405959-6d623e92445c?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+				"/generated/image-a-professional-german-man-a-technology-d.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Amara Washington",
+			position: "Director of Healthcare IT",
+			company: "Metropolitan Health Systems",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
+				"Implementation took 3 weeks instead of our budgeted 18 months.\nMIMMSoS saved us $4.7M in integration costs while improving operational efficiency by 65%.",
 			image:
-				"https://images.unsplash.com/photo-1531123897727-8f129e1688ce?q=80&w=3687&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+				"/generated/image-a-professional-african-american-woman-in.webp"
+		}
+	]}
+/>
+
+<UseCases
+	title="Use Cases"
+	subtitle="Real-world applications transforming healthcare operations"
+	useCases={[
+		{
+			title: "Coordinate patient care across departments",
+			description: "When critical patients need multi-departmental care, communication gaps can delay treatment and increase costs. MIMMSoS creates unified digital twins that synchronize patient data across all departments in real-time, ensuring seamless care coordination without disrupting existing workflows.",
+			image: "/generated/image-a-group-of-healthcare-professionals-in-a.webp",
+			link: {
+				href: "/use-cases/patient-care-coordination",
+				label: "Learn more"
+			}
+		},
+		{
+			title: "Integrate fragmented health data systems",
+			description: "Healthcare organizations struggle with isolated data silos that prevent comprehensive patient insights. Our Multi-Dimensional Digital Twins orchestrate fragmented workflows and connect disparate systems, enabling AI-driven analytics while maintaining full data sovereignty and compliance.",
+			image: "/generated/image-a-medical-team-in-a-research-lab-analyzi.webp",
+			link: {
+				href: "/use-cases/data-integration",
+				label: "Learn more"
+			}
+		},
+		{
+			title: "Streamline healthcare operations at scale",
+			description: "Managing complex hospital operations across multiple departments creates inefficiencies that waste millions annually. MIMMSoS transforms operational chaos into autonomous, intelligent systems that optimize resource allocation and reduce administrative overhead by up to 65%.",
+			image: "/generated/image-hospital-administrators-in-a-meeting-roo.webp",
+			link: {
+				href: "/use-cases/operations-optimization",
+				label: "Learn more"
+			}
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Autonomous enterprise operations made simple"
+	subtitle="Transform fragmented systems into intelligent, sovereign digital twins that orchestrate your entire organization"
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Multi-dimensional digital twins",
+			description: "Create intelligent digital replicas of your entire enterprise that adapt and evolve with your operations in real-time."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "Sovereignty-first AI architecture",
+			description: "Patented on-premise deployment ensures zero vendor data extraction while maintaining full control over your AI workflows."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "Seamless legacy integration",
+			description: "Connect existing systems without disruption, leveraging 20 years of healthcare interoperability experience."
+		},
+		{
+			title: "Coordinated patient care",
+			description: "Eliminate data silos across departments to enable unified care coordination and reduce operational waste."
+		},
+		{
+			title: "Autonomous workflow orchestration",
+			description: "Transform fragmented processes into intelligent, self-managing systems that optimize performance automatically."
+		},
+		{
+			title: "Regulated industry compliance",
+			description: "Built for healthcare and regulated sectors with enterprise-grade security and compliance frameworks."
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction />
