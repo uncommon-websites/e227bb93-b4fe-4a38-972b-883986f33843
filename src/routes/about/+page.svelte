@@ -27,8 +27,8 @@
 
 <SecondaryHero
 	title="Transforming healthcare through autonomous enterprise operations"
-	subtitle="Delivering sovereign AI systems that orchestrate fragmented workflows into intelligent, unified operations"
-	imageSrc="/generated/image-a-group-of-healthcare-professionals-coll.webp"
+	subtitle="Sovereign AI systems that orchestrate fragmented workflows"
+	imageSrc="/generated/image-a-group-of-software-engineers-collaborat.webp"
 />
 
 <!-- Story Section -->

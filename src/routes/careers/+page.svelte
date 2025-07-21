@@ -127,7 +127,7 @@
 			company: "Engineering Team",
 			quote:
 				"Working on Multi-Dimensional Digital Twins that directly impact patient care across hundreds of hospitals is incredibly fulfilling. The technical challenges are complex, but knowing our work saves lives makes every day meaningful.",
-			image: "/generated/image-a-diverse-group-of-healthcare-profession.webp"
+			image: "https://placehold.co/400x400/f8fafc/64748b?text=ER"
 		},
 		{
 			name: "Carlos Martinez",
@@ -135,7 +135,7 @@
 			company: "Technology Team",
 			quote:
 				"Building sovereignty-first AI for regulated industries requires a unique approach. Here, I get to work on cutting-edge technology while ensuring complete data sovereignty—it's the perfect blend of innovation and responsibility.",
-			image: "/generated/image-medical-professionals-in-a-hospital-corr.webp"
+			image: "https://placehold.co/400x400/f8fafc/64748b?text=CM"
 		},
 		{
 			name: "Sofia Andersson",
@@ -143,7 +143,7 @@
 			company: "Business Development",
 			quote:
 				"Having 400+ hospitals already trusting our systems gives me incredible confidence when speaking with new prospects. We're not selling a concept—we're scaling proven technology that transforms healthcare operations.",
-			image: "/generated/image-healthcare-executives-in-a-professional-.webp"
+			image: "https://placehold.co/400x400/f8fafc/64748b?text=SA"
 		}
 	];
 

@@ -1,22 +1,15 @@
-# Task: Update About & Careers Pages + Navigation Changes
+# Task: Update About Hero and Careers Page Images
 
-## Content Updates
-- [x] Generate new images for about page (hero, team, culture sections)
-- [x] Generate new images for careers page (hero, benefits, culture sections)
-- [x] Update about page content with MIMMSoS story, mission, and founder information
-- [x] Update careers page content with MIMMSoS-specific culture, benefits, and job openings
-- [x] Update team information to reflect actual MIMMSoS founders
+## Changes Requested:
+- [x] Shorten the about hero subheadline 
+- [x] Replace about hero image with engineers photo instead of nurses
+- [x] Replace team photos in careers page with placeholder images
 
-## Navigation Changes
-- [x] Remove "Pricing" from top-level navigation
-- [x] Remove "Use Cases" from top-level navigation
-- [x] Remove "Pricing" and "Use Cases" from footer
-- [x] Add "About" as top-level navigation item
-- [x] Add "Careers" as top-level navigation item
-- [x] Update Company dropdown to remove About and Careers (since they're now top-level)
-
-## Final Validation
-- [x] Verify all images are healthcare/enterprise themed without screens or text
-- [x] Ensure content aligns with MIMMSoS's healthcare AI focus and regulatory compliance messaging
-- [x] Check navigation functionality works correctly
-- [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css ✅
+## Specific Tasks:
+- [x] View current about page hero subtitle
+- [x] Generate new engineer image for about hero (16:9 aspect ratio)
+- [x] Update about hero subtitle to be shorter
+- [x] Update about hero image to use new engineer photo
+- [x] View current careers page team testimonials
+- [x] Replace testimonial images with placeholder images
+- [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css
