@@ -54,19 +54,19 @@
 			name: "Dr. Javier Herrero",
 			position: "Co-founder | President of Alma IT Systems S.L.",
 			bio: "43+ years experience in HealthTech and government networks, uniquely positioned to solve enterprise AI interoperability for regulated industries at global scale.",
-			image: "https://placehold.co/400x500/f3f4f6/f3f4f6"
+			image: "https://placehold.co/400x500/111827/374151"
 		},
 		{
 			name: "Hugo Herrero",
 			position: "Founder | Director of Tech, Innovation & Strategy",
 			bio: "Leading the technical vision for Multi-Dimensional Digital Twins and autonomous enterprise operations with deep expertise in healthcare technology architecture.",
-			image: "https://placehold.co/400x500/f3f4f6/f3f4f6"
+			image: "https://placehold.co/400x500/111827/374151"
 		},
 		{
 			name: "Timo Spring",
 			position: "Co-founder & Director of Sales, BD & IR",
 			bio: "Former CEO & Founder of Prevess and ex-COO of Family Office managing €5-50M AUM. Proven track record in scaling operations and navigating complex enterprise sales cycles.",
-			image: "https://placehold.co/400x500/f3f4f6/f3f4f6"
+			image: "https://placehold.co/400x500/111827/374151"
 		}
 	]}
 />

@@ -1,11 +1,6 @@
-# Task: Implement Dark Mode Theme
+# Task: Update Team Section Images to Dark Theme
 
-- [x] Update theme.css to enable dark mode with dark bluish-black background
-- [x] Update app.html to set dark theme as default
-- [x] Check and update Button component for dark mode compatibility
-- [x] Check and update Card component for dark mode compatibility (fixed icon overlay background)
-- [x] Check and update Nav component for dark mode compatibility
-- [x] Check and update Footer component for dark mode compatibility
-- [x] Review all other components for dark mode compatibility
-- [x] Test all components work properly in dark mode (errors are unrelated icon imports)
-- [x] Final design system compliance check - verified design system classes prioritized over Tailwind, NO shadows used, NO custom CSS added, NO arbitrary values used, theme.css updated with proper dark mode variables
+- [x] Update Dr. Javier Herrero's placeholder image to dark theme
+- [x] Update Hugo Herrero's placeholder image to dark theme  
+- [x] Update Timo Spring's placeholder image to dark theme
+- [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css
