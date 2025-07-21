@@ -24,18 +24,18 @@
 
 	const benefits = [
 		{
-			title: "Flexible Work",
-			description: "Remote-first with flexible hours that respect work-life balance.",
+			title: "Mission-Driven Impact",
+			description: "Work on technology that directly improves patient care and healthcare operations across 400+ hospitals and growing.",
 			icon: IconBriefcase
 		},
 		{
-			title: "Growth Opportunities",
-			description: "Continuous learning with mentorship and education stipends.",
+			title: "Cutting-Edge Technology",
+			description: "Build Multi-Dimensional Digital Twins and sovereignty-first AI architecture that's reshaping regulated industries.",
 			icon: IconUsers
 		},
 		{
-			title: "Comprehensive Benefits",
-			description: "Health coverage, retirement plans, and generous paid time off.",
+			title: "Global Scale Opportunity",
+			description: "Join a team targeting the $11T regulated industries market with proven healthcare track record and government network access.",
 			icon: IconHeart
 		}
 	];
@@ -43,78 +43,78 @@
 	const openings: JobOpening[] = [
 		// Engineering
 		{
-			title: "Senior Frontend Developer",
+			title: "Senior AI/ML Engineer",
 			department: "Engineering",
-			location: "Remote",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 		{
-			title: "Backend Engineer",
+			title: "Healthcare Systems Integration Engineer",
 			department: "Engineering",
-			location: "Remote",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 		{
-			title: "Design Engineer",
+			title: "Digital Twin Architecture Engineer",
 			department: "Engineering",
-			location: "Remote",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 
-		// Design
+		// Healthcare
 		{
-			title: "UX/UI Designer",
-			department: "Design",
-			location: "Remote",
+			title: "Healthcare Data Scientist",
+			department: "Healthcare",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 		{
-			title: "Product Designer",
-			department: "Design",
-			location: "Remote",
-			type: "Full-time",
-			url: "#"
-		},
-
-		// Product
-		{
-			title: "Product Manager",
-			department: "Product",
-			location: "Remote",
-			type: "Full-time",
-			url: "#"
-		},
-		{
-			title: "Product Analyst",
-			department: "Product",
-			location: "Remote",
+			title: "Clinical Workflow Specialist",
+			department: "Healthcare",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 
-		// Marketing
+		// Business Development
 		{
-			title: "Marketing Specialist",
-			department: "Marketing",
-			location: "Remote",
+			title: "Enterprise Sales Manager - Healthcare",
+			department: "Sales",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 		{
-			title: "Content Strategist",
-			department: "Marketing",
-			location: "Remote",
+			title: "Government Relations Specialist",
+			department: "Sales",
+			location: "Madrid",
+			type: "Full-time",
+			url: "#"
+		},
+
+		// Operations
+		{
+			title: "Healthcare Compliance Manager",
+			department: "Operations",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		},
 		{
-			title: "Social Media Manager",
-			department: "Marketing",
-			location: "Remote",
+			title: "Data Sovereignty Specialist",
+			department: "Operations",
+			location: "Remote/Madrid",
+			type: "Full-time",
+			url: "#"
+		},
+		{
+			title: "Enterprise Implementation Manager",
+			department: "Operations",
+			location: "Remote/Madrid",
 			type: "Full-time",
 			url: "#"
 		}
@@ -122,31 +122,28 @@
 
 	const employeeTestimonials = [
 		{
-			name: "Michael Chen",
-			position: "Senior Developer",
+			name: "Dr. Elena Rodriguez",
+			position: "Healthcare Systems Engineer",
 			company: "Engineering Team",
 			quote:
-				"Working here has given me the opportunity to tackle challenging problems while maintaining a healthy work-life balance. The team culture is supportive and collaborative.",
-			image:
-				"https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+				"Working on Multi-Dimensional Digital Twins that directly impact patient care across hundreds of hospitals is incredibly fulfilling. The technical challenges are complex, but knowing our work saves lives makes every day meaningful.",
+			image: "/generated/image-a-diverse-group-of-healthcare-profession.webp"
 		},
 		{
-			name: "Priya Sharma",
-			position: "Product Designer",
-			company: "Design Team",
+			name: "Carlos Martinez",
+			position: "AI Architecture Lead",
+			company: "Technology Team",
 			quote:
-				"The creative freedom and opportunity to influence product decisions makes this the best place I've ever worked. I'm constantly learning and growing.",
-			image:
-				"https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+				"Building sovereignty-first AI for regulated industries requires a unique approach. Here, I get to work on cutting-edge technology while ensuring complete data sovereignty—it's the perfect blend of innovation and responsibility.",
+			image: "/generated/image-medical-professionals-in-a-hospital-corr.webp"
 		},
 		{
-			name: "Marcus Johnson",
-			position: "Marketing Lead",
-			company: "Marketing Team",
+			name: "Sofia Andersson",
+			position: "Enterprise Sales Manager",
+			company: "Business Development",
 			quote:
-				"I joined three years ago and have grown tremendously. The leadership truly invests in your development and the work environment is both challenging and supportive.",
-			image:
-				"https://images.unsplash.com/photo-1531384441138-2736e62e0919?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+				"Having 400+ hospitals already trusting our systems gives me incredible confidence when speaking with new prospects. We're not selling a concept—we're scaling proven technology that transforms healthcare operations.",
+			image: "/generated/image-healthcare-executives-in-a-professional-.webp"
 		}
 	];
 
@@ -172,18 +169,18 @@
 	const values = [
 		{
 			icon: IconHeart,
-			title: "Passion",
-			description: "We're driven by a shared passion for innovation and excellence."
+			title: "Patient-First Mission",
+			description: "Every line of code, every system design, every business decision is guided by improving patient care and healthcare outcomes."
 		},
 		{
 			icon: IconUsers,
-			title: "Collaboration",
-			description: "We believe in teamwork and collaboration to achieve great things."
+			title: "Sovereignty & Trust",
+			description: "We build systems that healthcare organizations can trust completely—your data stays yours, always."
 		},
 		{
 			icon: IconGlobe,
-			title: "Global Impact",
-			description: "We're committed to making a positive impact on the world."
+			title: "Regulated Industries Expertise",
+			description: "We understand the unique challenges of healthcare, government, and regulated industries, building solutions that meet the highest compliance standards."
 		}
 	];
 </script>
@@ -191,9 +188,9 @@
 <!-- Hero Section -->
 
 <SecondaryHero
-	title="Join our team of innovators"
-	subtitle="We're looking for passionate people to help us build the future of digital experiences. Discover your next opportunity with us."
-	imageSrc="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+	title="Build the future of autonomous healthcare operations"
+	subtitle="Join our mission to transform the $11T regulated industries market through Multi-Dimensional Digital Twins and sovereignty-first AI architecture."
+	imageSrc="/generated/image-a-healthcare-team-in-a-modern-medical-fa.webp"
 />
 
 <!-- Why Join Us Section -->
@@ -213,7 +210,7 @@
 <Testimonials testimonials={employeeTestimonials} />
 
 <!-- Application Process -->
-<section class={SECTION_BASE_CLASSES} generating>
+<section class={SECTION_BASE_CLASSES}>
 	<div class="mx-auto">
 		<h2 class="text-title1 mb-16">Our application process</h2>
 
@@ -231,7 +228,7 @@
 	</div>
 </section>
 <!-- Current Openings Section -->
-<section class={GRADIENT_BG_CLASSES} generating>
+<section class={GRADIENT_BG_CLASSES}>
 	<div class="section-px section-py container mx-auto grid w-full items-start lg:grid-cols-2">
 		<SectionHeader title="Current openings" subtitle="Find your perfect role" />
 

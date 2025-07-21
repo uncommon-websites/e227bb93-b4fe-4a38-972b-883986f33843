@@ -55,63 +55,32 @@ export const cta = {
 
 export const navigation: NavItem[] = [
 	{
-		label: "Pricing",
-		href: "/pricing",
+		label: "About",
+		href: "/about",
 		showInNav: true,
-		showInFooter: false
+		showInFooter: true
 	},
 	{
-		label: "Use Cases",
+		label: "Careers",
+		href: "/careers",
 		showInNav: true,
-		showInFooter: true,
-		children: [
-			{
-				label: "Patient Care Coordination",
-				href: "/use-cases/patient-care-coordination",
-				image: "/generated/image-a-group-of-healthcare-professionals-in-a.webp",
-				description: "Coordinate patient care across departments with unified digital twins that synchronize data in real-time, ensuring seamless care without disrupting workflows",
-				showInNav: true,
-				showInFooter: true
-			},
-			{
-				label: "Data Integration",
-				href: "/use-cases/data-integration",
-				image: "/generated/image-a-medical-team-in-a-research-lab-analyzi.webp",
-				description: "Integrate fragmented health data systems through Multi-Dimensional Digital Twins that orchestrate workflows while maintaining full data sovereignty",
-				showInNav: true,
-				showInFooter: true
-			},
-			{
-				label: "Operations Optimization",
-				href: "/use-cases/operations-optimization",
-				image: "/generated/image-hospital-administrators-in-a-meeting-roo.webp",
-				description: "Streamline healthcare operations at scale by transforming operational chaos into autonomous, intelligent systems that optimize resource allocation",
-				showInNav: true,
-				showInFooter: true
-			}
-		]
+		showInFooter: true
 	},
 	{
 		label: "Company",
-		showInNav: true,
+		showInNav: false,
 		showInFooter: true,
 		children: [
 			{
 				label: "About us",
 				href: "/about",
-				showInNav: true,
-				showInFooter: true
-			},
-			{
-				label: "Pricing",
-				href: "/pricing",
 				showInNav: false,
 				showInFooter: true
 			},
 			{
 				label: "Careers",
 				href: "/careers",
-				showInNav: true,
+				showInNav: false,
 				showInFooter: true
 			}
 		]
