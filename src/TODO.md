@@ -1,6 +1,6 @@
-# Task: Switch to Light Mode and Use Customer Cards Hero
+# Task: Add Customer Images and Update Logo Scroller
 
-- [x] Comment out dark mode colors in theme.css
-- [x] Change theme in app.html from "dark" to "light"
-- [x] Verify the customer cards hero is being used
+- [x] Generate professional healthcare customer images (4 customers for optimal layout)
+- [x] Update CustomerCardHero with customer data including generated images
+- [x] Update LogoScroller to use Brandfetch logos instead of Clearbit
 - [x] Final design system compliance check - verify design system classes prioritized over Tailwind, NO shadows, NO custom CSS, NO arbitrary values, check theme.css, app.css and typography.css

@@ -13,14 +13,36 @@
 <CustomerCardHero
 	title="Seamless operations. Smarter systems."
 	subtitle="Transform siloed workflows into coordinated care without replacing your existing infrastructure."
+	customers={[
+		{
+			name: "Dr. Sarah Chen",
+			position: "Chief Information Officer",
+			imageSrc: "/generated/image-a-professional-healthcare-cio-woman-in-b.webp"
+		},
+		{
+			name: "Marcus Rodriguez",
+			position: "Director of Healthcare Technology",
+			imageSrc: "/generated/image-a-healthcare-technology-director-man-in-.webp"
+		},
+		{
+			name: "Jennifer Walsh",
+			position: "Hospital IT Manager",
+			imageSrc: "/generated/image-a-hospital-it-manager-woman-photographed.webp"
+		},
+		{
+			name: "David Thompson",
+			position: "Healthcare Systems Administrator",
+			imageSrc: "/generated/image-a-healthcare-systems-administrator-man-d.webp"
+		}
+	]}
 />
 <LogoScroller 
 	label="Trusted by leading healthcare systems"
 	logoUrls={[
-		'https://logo.clearbit.com/kaiserpermanente.org',
-		'https://logo.clearbit.com/mayoclinic.org',
-		'https://logo.clearbit.com/clevelandclinic.org',
-		'https://logo.clearbit.com/johnshopkins.edu'
+		'https://cdn.brandfetch.io/kaiserpermanente.org/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7',
+		'https://cdn.brandfetch.io/mayoclinic.org/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7',
+		'https://cdn.brandfetch.io/clevelandclinic.org/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7',
+		'https://cdn.brandfetch.io/johnshopkins.edu/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7'
 	]}
 />
 
