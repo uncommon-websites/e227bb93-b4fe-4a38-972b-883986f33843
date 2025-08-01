@@ -58,13 +58,13 @@ export const navigation: NavItem[] = [
 		label: "About",
 		href: "/about",
 		showInNav: true,
-		showInFooter: true
+		showInFooter: false
 	},
 	{
 		label: "Careers",
 		href: "/careers",
 		showInNav: true,
-		showInFooter: true
+		showInFooter: false
 	},
 	{
 		label: "Company",
