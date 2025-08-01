@@ -37,7 +37,7 @@
 	]}
 />
 <LogoScroller 
-	label="Trusted by leading healthcare systems"
+	label="Trusted by the leading healthcare systems"
 	logoUrls={[
 		'https://cdn.brandfetch.io/kaiserpermanente.org/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7',
 		'https://cdn.brandfetch.io/mayoclinic.org/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7',
