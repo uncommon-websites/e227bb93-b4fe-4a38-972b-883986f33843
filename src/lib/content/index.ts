@@ -1,6 +1,6 @@
 export const CONFIG = {
-	companyName: "Alma",
-	description: "Autonomous enterprise operations by leveraging Multi-Dimensional Digital Twins that orchestrate fragmented workflows into intelligent, sovereign systems.",
+	companyName: "MIMMSoS",
+	description: "Sovereign operating system for regulated industries. Transform critical assets into Multi-Dimensional Digital Twins (CogniTwins®) that orchestrate workflows across existing systems with European governance, compliance, and zero-trust architecture.",
 	image: "/og.png",
 	url: "https://mimms.ai",
 	fontFamily: "Inter Variable"
